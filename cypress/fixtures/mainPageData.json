@@ -1,0 +1,13 @@
+{
+    "mainPageNode": "claude",
+    "promptFilesLabel": "Prompt files:",
+    "claudeInputLabel": "Claude Input:",
+    "claudeOutputLabel": "Claude Output:",
+
+    "claude": {
+        "additionText": { "input": "Calculate one plus 78. Provide anwer by number.", "output": "79" },
+        "additionNumber": { "input": "Calculate 98 plus 1. Provide anwer by text.", "output": "Ninety-nine." }
+    }
+
+
+}

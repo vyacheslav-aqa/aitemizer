@@ -1,0 +1,13 @@
+{
+    "invalidUser": {
+        "userName": "wrong_user",
+        "password": "wrong_password"
+    },
+
+    "aILabel": "AI",
+    "temizerLabel": "Temizer",
+    "footerText": "© 2024 Simfoni. All rights reserved.",
+    "errorMessage": "Invalid credentials",
+    "loginPageNode": "login_page"
+
+}

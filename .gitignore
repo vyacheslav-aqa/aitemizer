@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Sensitive files
+cypress.env.json
+.env
+.env.*
+
+# Caches and build artifacts
+.cache/
+.vscode/
+dist/
+build/
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
